@@ -22,7 +22,7 @@ CLEAN_LEVEL="make,debs"					# comma-separated list of clean targets: "make" = ma
 							# "alldebs" - delete all packages in "./output/debs", "images" = delete "./output/images",
 							# "cache" = delete "./output/cache", "sources" = delete "./sources"
 # user
-DEST_LANG="en_US.UTF-8"					# sl_SI.UTF-8, en_US.UTF-8
+DEST_LANG="fr_FR.UTF-8"					# fr_FR.UTF-8
 CONSOLE_CHAR="UTF-8"
 
 # advanced
